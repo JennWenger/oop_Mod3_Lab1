@@ -1,0 +1,14 @@
+C:\Users\dewijw1\source\repos\Mod3_Lab1\Mod3_Lab1\obj\Debug\Mod3_Lab1.csprojAssemblyReference.cache
+C:\Users\dewijw1\source\repos\Mod3_Lab1\Mod3_Lab1\obj\Debug\Mod3_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\dewijw1\source\repos\Mod3_Lab1\Mod3_Lab1\bin\Debug\Mod3_Lab1.exe.config
+C:\Users\dewijw1\source\repos\Mod3_Lab1\Mod3_Lab1\bin\Debug\Mod3_Lab1.exe
+C:\Users\dewijw1\source\repos\Mod3_Lab1\Mod3_Lab1\bin\Debug\Mod3_Lab1.pdb
+C:\Users\dewijw1\source\repos\Mod3_Lab1\Mod3_Lab1\obj\Debug\Mod3_Lab1.exe
+C:\Users\dewijw1\source\repos\Mod3_Lab1\Mod3_Lab1\obj\Debug\Mod3_Lab1.pdb
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\OOP-C#\Mod3_Lab1\Mod3_Lab1\bin\Debug\Mod3_Lab1.exe.config
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\OOP-C#\Mod3_Lab1\Mod3_Lab1\bin\Debug\Mod3_Lab1.exe
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\OOP-C#\Mod3_Lab1\Mod3_Lab1\bin\Debug\Mod3_Lab1.pdb
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\OOP-C#\Mod3_Lab1\Mod3_Lab1\obj\Debug\Mod3_Lab1.csprojAssemblyReference.cache
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\OOP-C#\Mod3_Lab1\Mod3_Lab1\obj\Debug\Mod3_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\OOP-C#\Mod3_Lab1\Mod3_Lab1\obj\Debug\Mod3_Lab1.exe
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\OOP-C#\Mod3_Lab1\Mod3_Lab1\obj\Debug\Mod3_Lab1.pdb
